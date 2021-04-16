@@ -23,22 +23,22 @@ The Applied Data Science program at Syracuse University's School of Information 
 1. README.md 
     - Overview Document detailing repository contents
 
-2. Ryan Ondocin Resume
+2. [Ryan Ondocin Resume](https://github.com/Ryanondocin2019/MSADS_Portfolio_Milestone/blob/main/RyanOndocinresume.pdf)
     - Current Resume
 
-3. Portfolio Milestone 
+3. [Portfolio Milestone](https://github.com/Ryanondocin2019/MSADS_Portfolio_Milestone/blob/main/Ryan%20Ondocin%20MSADS%20Portfolio%20Milestone.pdf) 
     - Written Portfolio Milestone Report
 
 4. Referenced Course Projects and Assignments
 
-    * [IST 659: Database Administration]
+    * [IST 659: Database Administration](https://github.com/Ryanondocin2019/MSADS_Portfolio_Milestone/tree/main/IST%20659)
     
-    * [IST 664: Natural Language Processing]
+    * [IST 664: Natural Language Processing](https://github.com/Ryanondocin2019/MSADS_Portfolio_Milestone/tree/main/IST%20664)
     
-    * [IST 718: Big Data Analytics]
+    * [IST 718: Big Data Analytics](https://github.com/Ryanondocin2019/MSADS_Portfolio_Milestone/tree/main/IST%20718)
     
   
 5. [Portfolio Presentation]
     - Video file presenting the Portfolio Milestone
 
-6. [RyanOndocinSlideDeck.pdf]
+6. [RyanOndocinSlideDeck.pdf](https://github.com/Ryanondocin2019/MSADS_Portfolio_Milestone/blob/main/Portfolio%20Presentation%20Ondocin%20(1).pdf)
