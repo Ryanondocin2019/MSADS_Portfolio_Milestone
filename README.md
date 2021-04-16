@@ -38,7 +38,7 @@ The Applied Data Science program at Syracuse University's School of Information 
     * [IST 718: Big Data Analytics](https://github.com/Ryanondocin2019/MSADS_Portfolio_Milestone/tree/main/IST%20718)
     
   
-5. [Portfolio Presentation]
+5. [Portfolio Presentation](https://drive.google.com/file/d/1FVR1g-l-IvHyHw-OIE_lw1MY3asj_tPu/view?usp=sharing)
     - Video file presenting the Portfolio Milestone
 
 6. [RyanOndocinSlideDeck.pdf](https://github.com/Ryanondocin2019/MSADS_Portfolio_Milestone/blob/main/Portfolio%20Presentation%20Ondocin%20(1).pdf)
