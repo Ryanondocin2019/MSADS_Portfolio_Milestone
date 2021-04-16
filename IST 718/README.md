@@ -1,5 +1,7 @@
 # Ryan Ondocin 
+
 830726907
+
 rjondoci@syr.edu
 
 # Abstract
