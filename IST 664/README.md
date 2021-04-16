@@ -1,6 +1,8 @@
+# IST 664: Natural Language Processing
 # Ryan Ondocin 
 
 830726907
+
 rjondoci@syr.edu
 
 # Covid-tweet-textual-clustering-kmeans
